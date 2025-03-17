@@ -1,0 +1,18 @@
+CÁC LƯU Ý KHI THỰC HIỆN NHIỆM VỤ:
+- Tạo các file Notebooks mới đều ở trong thư mục "In progress/Sources/".
+
+- Thống nhất đặt tên file: <Tên nhiệm vụ>_<MSSV>.ipynb 
+(Vd: DataCleaning_22120023.ipynb).
+
+- Trình bày Notebooks rõ ràng, đầy đủ các mục chính & mục con.
+
+- Tham khảo cách trình bày Notebooks tại đây: 
+https://github.com/LeNguyenGiaBaoFITHCMUS/Programming4DS_CQ2022-21/blob/main/P4S.ipynb
+
+- Mỗi thành viên đều tự hoàn thành nhiệm vụ với các 
+Notebooks do cá nhân thành viên đó thực hiện. Sau cùng 
+sẽ có một thành viên tổng hợp các file Notebooks thành 
+3 Notebooks cuối cùng (data_collection.ipynb, data_cleaning.ipynb, 
+data_visualization.ipynb).
+
+Chúc mọi người làm việc năng suất 💪💪
